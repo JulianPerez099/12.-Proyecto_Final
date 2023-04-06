@@ -6,7 +6,7 @@ La página está diseñada utilizando HTML, CSS y JavaScript, y ha sido diseñad
 ![image](https://user-images.githubusercontent.com/103725662/230257330-d20ef734-c832-4135-a1d1-a60adc07285f.png)
 
 # Tienda
-![image](https://user-images.githubusercontent.com/103725662/230257580-1db5bc0a-4e34-4045-801b-261847437d43.png)
+![image](https://user-images.githubusercontent.com/103725662/230258351-8538528c-8486-48a6-bff4-79f5f3e6bf6a.png)
 
 # Contacto (Formulario)
 ![image](https://user-images.githubusercontent.com/103725662/230257634-e42ed21a-e669-4540-a455-7aa77cceb8fd.png)
